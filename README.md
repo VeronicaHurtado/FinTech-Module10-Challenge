@@ -21,7 +21,8 @@ might impact the crypto market. The prototype is presented as a [Jupyter Lab not
 ## Technical Environment
 This tool utilises the following technologies:
 - **Pandas** DataFrame: [Documentation](https://pandas.pydata.org/docs/reference/frame.html)
-- **hvplot** Bar chart, Line plot, GeoViews:  [Documentation](https://hvplot.holoviz.org/getting_started/hvplot.html)
+- **hvplot** Bar chart, Line plot, Scatter:  [Documentation](https://hvplot.holoviz.org/getting_started/hvplot.html)
+- **sklearn** Cluster, decomposition, preprocessing:  [Documentation](https://scikit-learn.org/stable/)
 
 ## Disclaimer
 > Please be aware this is an Academic Case Study. The conclusions from this work should not be considered as financial 
