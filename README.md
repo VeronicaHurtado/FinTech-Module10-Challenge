@@ -27,3 +27,12 @@ This tool utilises the following technologies:
 ## Disclaimer
 > Please be aware this is an Academic Case Study. The conclusions from this work should not be considered as financial 
 > advice.
+
+- - - - - - - - - - - - - 
+## Report
+![Elbow plots](Images/Elbow_comparisson.png)
+![Cluster plots](Images/Clusters_comparisson.png)
+
+### Impact of using fewer features to cluster the data using K-Means
+> Since we can only plot 2 dimensions of the data (PCA 1 and PCA 2), we are not able to get a lot of meaningful 
+> information. However, the Cryptocurrency segmentation is clearer when using PCA.
